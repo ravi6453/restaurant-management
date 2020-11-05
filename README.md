@@ -1,1 +1,1 @@
-# restaurant-management
+# restaurant-management-system-with-gst-billing
